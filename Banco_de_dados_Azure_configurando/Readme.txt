@@ -1,0 +1,1 @@
+Configurando uma instancia de banco de dados na azure na pratica.Ja o fiz em outra aula.
