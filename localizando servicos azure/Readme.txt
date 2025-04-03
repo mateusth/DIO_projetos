@@ -1,0 +1,1 @@
+Resumo bem rapido de como encontrar os servicos do azure por categoria.
